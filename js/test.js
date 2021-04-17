@@ -5,50 +5,17 @@ function fetchActivities() {
 
     var activities = [
         {
-            "day": "Monday",
-            "time": "6pm - 8pm",
-            "name": "Pilates with Petra",
-            "summary": "Mixed Ability Class",
-            "description": "A gentle yet effective exercise for all, concentrating on core muscles, stretching, balance and overall well being. All levels and ages are welcome to this class, booking isn't required, feel free to drop in on the day and pay as you go if you prefer.",
-            "notes": "£6 per class or £50 for 10.",
-            "contactname": "Petra Berryman",
-            "contactnumber": "07745 823565",
-            "contactemail": "petra.jan@hotmail.com",
-            "image": "pilates.jpg"
-        },
-        {
-            "day": "Tuesday",
-            "time": "11.30am - 12.30pm",
-            "name": "Gentle Hatha Yoga",
-            "summary": "Beginners Welcome",
-            "description": "Gentle Hatha Yoga can be practised by all levels from beginners upwards. It requires a healthy balance between effort and relaxation.\r\nClasses normally begin with a gentle warm up followed by a sequence of yoga postures. The yoga postures will align the body and breath. It will also lengthen and strengthen your muscles and ligaments. These different postures will take place either standing up or some are seated, or floor based.\r\nIn these classes you will learn to work with your body into the postures to where you are most comfortable. Your body will learn how to release tension. Each class will finish with a deep relaxation to help calm the mind and relax the body. We will also practice short meditation and breathing practices in class.",
-            "contactname": "Annelie Carver",
-            "contactnumber": "07540 995021",
-            "contactemail": "seventhsensehealing@outlook.com",
-            "image": "hathayoga.jpg"
-        },
-        {
-            "day": "Tuesday",
-            "time": "7pm - 9pm",
-            "name": "Western Spirit",
-            "summary": "Line Dance Club",
-            "description": "Line dance classes for beginners and improvers.",
-            "contactname": "Marina Halman",
-            "contactnumber": "07985 234149",
-            "contactemail": "marina@westernspirit.co.uk",
-            "contactwebsite": "www.westernspirit.co.uk",
-            "image": "westernspirit.jpg"
-        },
-        {
             "day": "Wednesday",
-            "time": "6.30pm - 7.30pm",
-            "name": "Hatha Flow Yoga",
-            "summary": "Beginners Welcome",
-            "description": "This form of yoga can be practised by all levels from beginners upwards. It requires a healthy balance between effort and relaxation.\nClasses normally begin with a gentle warm up followed by a sequence of energising and sequential poses. These poses will align the body and breath. It will also lengthen and strengthen your muscles and ligaments. These different postures will take place either standing up or some are seated, or floor based.\nIn these classes you will learn to work with your body into the postures to where you are most comfortable. Your body will learn how to release tension. Each class will finish with a deep relaxation to help calm the mind and relax the body. We will also practice short meditation and breathing practices in class.",
-            "contactname": "Annelie Carver",
+            "time": "10 - 12noon",
+            "name": "Ducklings",
+            "summary": "Baby & Toddler Group",
+            "description": "Ducklings is a friendly and informal playgroup for babies and toddlers up to school age, everyone is welcome so please feel free to drop in for a play, chat and a biscuit :)",
+            "notes": "There's plenty of toys and play space for little ones to burn off some energy and it's lovely to be able to meet other parents and carers over tea or coffee as well.",
+            "notesmore": "We meet on Wednesdays between 10 - 12 at the village hall in Countess Wear, it's pay as you go £1.50 per child and 50p for tea or coffee.",
+            "contactname": "Jessica Startin",
             "contactnumber": "07540 995021",
-            "contactemail": "seventhsensehealing@outlook.com",
-            "image": "hathayoga.jpg"
+            "contactemail": "countesswearvillagehall@gmail.com",
+            "image": "ducklings.jpg"
         },
         {
             "day": "Thursday",
@@ -70,6 +37,13 @@ function fetchActivities() {
             "contactname": "Ellie Rayner",
             "contactemail": "thematernitycollective@outlook.com",
             "image": "maternity_collective_flyer.jpg"
+        },
+        {
+            "day": "Sunday",
+            "time": "9.30am - 10.30am",
+            "name": "Private Hire",
+            "summary": "Private Badminton Hire",
+            "description": ""
         },
     ]
 
