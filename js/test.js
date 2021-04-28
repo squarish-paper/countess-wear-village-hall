@@ -13,7 +13,7 @@ function fetchActivities() {
             "notes": "There's plenty of toys and play space for little ones to burn off some energy and it's lovely to be able to meet other parents and carers over tea or coffee as well.",
             "notesmore": "We meet on Wednesdays between 10 - 12 at the village hall in Countess Wear, it's pay as you go £1.50 per child and 50p for tea or coffee.",
             "contactname": "Jessica Startin",
-            "contactnumber": "07540 995021",
+            "contactnumber": "07709 687415",
             "contactemail": "countesswearvillagehall@gmail.com",
             "image": "ducklings.jpg"
         },
