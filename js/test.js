@@ -5,6 +5,37 @@ function fetchActivities() {
 
     var activities = [
         {
+            "day": "Monday",
+            "time": "6:00 - 8.15pm",
+            "name": "Pilates with Petra",
+            "summary": "Mixed Ability Class",
+            "description": "A gentle yet effective exercise for all, concentrating on core muscles, stretching, balance and overall well being. All levels and ages are welcome to this class, booking isn't required, feel free to drop in on the day and pay as you go if you prefer.",
+            "notes": "£6 per class or £50 for 10.",
+            "contactname": "Petra Berryman",
+            "contactnumber": "07745 823565",
+            "contactemail": "petra.jan@hotmail.com",
+            "image": "pilates.jpg"
+        },
+        {
+            "day": "Tuesday",
+            "time": "11.30 - 12.30pm",
+            "name": "Gentle Hatha Yoga",
+            "summary": "Suitable For All",
+            "description": "A gentle exercise class for beginners and improvers.",
+            "notes": "By enrolment only.",
+            "contactname": "Annelie Carver",
+            "contactnumber": "07540 995021",
+            "contactemail": "seventhsensehealing@outlook.com",
+            "image": "hathayoga.jpg"
+        },
+        {
+            "day": "Tuesday",
+            "time": "5.30 - 6.30pm",
+            "name": "Private Hire",
+            "summary": "Private Badminton Hire",
+            "description": ""
+        },
+        {
             "day": "Wednesday",
             "time": "10 - 12noon",
             "name": "Ducklings",
@@ -16,6 +47,18 @@ function fetchActivities() {
             "contactnumber": "07709 687415",
             "contactemail": "countesswearvillagehall@gmail.com",
             "image": "ducklings.jpg"
+        },
+        {
+            "day": "Wednesday",
+            "time": "6.30 - 7.30pm",
+            "name": "Gentle Hatha Yoga",
+            "summary": "Suitable For All",
+            "description": "A gentle exercise class for beginners and improvers.",
+            "notes": "By enrolment only.",
+            "contactname": "Annelie Carver",
+            "contactnumber": "07540 995021",
+            "contactemail": "seventhsensehealing@outlook.com",
+            "image": "hathayoga.jpg"
         },
         {
             "day": "Thursday",
@@ -30,6 +73,17 @@ function fetchActivities() {
         },
         {
             "day": "Thursday",
+            "time": "1.30 - 2.30pm",
+            "name": "Fitsteps",
+            "summary": "Dance Exercise",
+            "description": "An exercise class for all ages and abilities, with a Strictly twist.",
+            "notes": "Spaces are a bit more limited at the moment so booking early to avoid disappointment",
+            "contactname": "Donna Bedwell",
+            "contactemail": "eddon@live.co.uk",
+            "image": "fitsteps.jpg"
+        },
+        {
+            "day": "Thursday",
             "time": "6.30pm - 8.30pm",
             "name": "The Maternity Collective",
             "summary": "Antenatal and Hypnobirthing Classes",
@@ -39,11 +93,32 @@ function fetchActivities() {
             "image": "maternity_collective_flyer.jpg"
         },
         {
+            "day": "Friday",
+            "time": "10am - 12pm",
+            "name": "Painting Class",
+            "description": "",
+            "summary": "",
+            "contactname": "Jessica Startin",
+            "contactnumber": "07709 687415",
+            "contactemail": "countesswearvillagehall@gmail.com"
+        },
+        {
             "day": "Sunday",
             "time": "9.30am - 10.30am",
             "name": "Private Hire",
             "summary": "Private Badminton Hire",
             "description": ""
+        },
+        {
+            "day": "Sunday",
+            "time": "11 - 12pm",
+            "name": "Shotokan Karate",
+            "summary": "For all ages",
+            "description": "Karate teaches Self Defence, Fitness, Discipline, Confidence and Flexibility. Ideal for Men, Women and Children from 5 years.",
+            "contactname": "Scott",
+            "contactnumber": "07557 532676",
+            "contactemail": "sska595@gmail.com",
+            "image": "karate.jpg"
         },
     ]
 
