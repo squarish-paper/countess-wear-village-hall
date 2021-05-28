@@ -18,18 +18,6 @@ function fetchActivities() {
         },
         {
             "day": "Tuesday",
-            "time": "11.30 - 12.30pm",
-            "name": "Gentle Hatha Yoga",
-            "summary": "Suitable For All",
-            "description": "A gentle exercise class for beginners and improvers.",
-            "notes": "By enrolment only.",
-            "contactname": "Annelie Carver",
-            "contactnumber": "07540 995021",
-            "contactemail": "seventhsensehealing@outlook.com",
-            "image": "hathayoga.jpg"
-        },
-        {
-            "day": "Tuesday",
             "time": "5.30 - 6.30pm",
             "name": "Private Hire",
             "summary": "Private Badminton Hire",
@@ -47,18 +35,6 @@ function fetchActivities() {
             "contactnumber": "07709 687415",
             "contactemail": "countesswearvillagehall@gmail.com",
             "image": "ducklings.jpg"
-        },
-        {
-            "day": "Wednesday",
-            "time": "6.30 - 7.30pm",
-            "name": "Gentle Hatha Yoga",
-            "summary": "Suitable For All",
-            "description": "A gentle exercise class for beginners and improvers.",
-            "notes": "By enrolment only.",
-            "contactname": "Annelie Carver",
-            "contactnumber": "07540 995021",
-            "contactemail": "seventhsensehealing@outlook.com",
-            "image": "hathayoga.jpg"
         },
         {
             "day": "Thursday",
