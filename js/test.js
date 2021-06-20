@@ -24,6 +24,18 @@ function fetchActivities() {
             "description": ""
         },
         {
+            "day": "Tuesday",
+            "time": "7 - 8pm",
+            "name": "Western Spirit",
+            "summary": "Line Dance Club",
+            "description": "Line dance classes for beginners and improvers.",
+            "contactname": "Marina Halman",
+            "contactnumber": "07985 234149",
+            "contactemail": "marina@westernspirit.co.uk",
+            "contactwebsite": "www.westernspirit.co.uk",
+            "image": "westernspirit.jpg"
+        },
+        {
             "day": "Wednesday",
             "time": "10 - 12noon",
             "name": "Ducklings",
@@ -35,6 +47,17 @@ function fetchActivities() {
             "contactnumber": "07709 687415",
             "contactemail": "countesswearvillagehall@gmail.com",
             "image": "ducklings.jpg"
+        },
+        {
+            "day": "Wednesday",
+            "time": "2:30 - 4pm",
+            "name": "Gentle Exercise",
+            "summary": "Seated or Standing",
+            "description": "A gentle exercise session, a combination of stretches and arm and leg exercises to music, designed to maintain and extend a normal range of movement, seated or standing.",
+            "notes": "New course starting in September, by enrolment only.",
+            "contactname": "Vicky Davidson",
+            "contactnumber": "07709 687415",
+            "contactemail": "countesswearvillagehall@gmail.com"
         },
         {
             "day": "Thursday",
@@ -86,12 +109,12 @@ function fetchActivities() {
             "description": ""
         },
         {
-            "day": "Sunday",
-            "time": "11 - 12pm",
+            "day": "Saturday",
+            "time": "9 - 10am",
             "name": "Shotokan Karate",
             "summary": "For all ages",
             "description": "Karate teaches Self Defence, Fitness, Discipline, Confidence and Flexibility. Ideal for Men, Women and Children from 5 years.",
-            "contactname": "Scott",
+            "contactname": "Stuart",
             "contactnumber": "07557 532676",
             "contactemail": "sska595@gmail.com",
             "image": "karate.jpg"
