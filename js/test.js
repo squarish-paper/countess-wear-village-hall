@@ -6,7 +6,19 @@ function fetchActivities() {
     var activities = [
         {
             "day": "Monday",
-            "time": "6:00 - 8.15pm",
+            "time": "10:00am - 11:00am",
+            "name": "Toddler Phonetics",
+            "summary": "Baby & Toddler Group",
+            "description": "This parent and toddler class is aimed at 3 - 5 year olds and is described as ‘Athletics for your ABCs’, with the main aim being to have fun and provide a safe space for learning. Examples of activities during classes include; art, music & singing, learning activities and stories which will all support children’s development for starting school and beyond.",
+            "notes": "Free Trial in July",
+            "contactname": "Kay",
+            "contactnumber": "07460 482146",
+            "contactwebsite": "http://www.toddlerphonetics.co.uk/",
+            "image": "phonetics.jpeg"
+        },
+        {
+            "day": "Monday",
+            "time": "6:00pm - 8.15pm",
             "name": "Pilates with Petra",
             "summary": "Mixed Ability Class",
             "description": "A gentle yet effective exercise for all, concentrating on core muscles, stretching, balance and overall well being. All levels and ages are welcome to this class, booking isn't required, feel free to drop in on the day and pay as you go if you prefer.",
@@ -18,14 +30,24 @@ function fetchActivities() {
         },
         {
             "day": "Tuesday",
-            "time": "5.30 - 6.30pm",
+            "time": "9.30pm - 10.30am",
+            "name": "(( Bounce ))",
+            "summary": "Trampoline Fitness",
+            "description": "Routines are performed to banging tunes in a welcoming, motivating, environment. We encourage a social space where you can make friends or even bring your children along while you workout too - we're proud to have pioneered the 'child-friendly' fitness movement and pride ourselves on operating an inclusive FUN FRIENDLY FIERCE nightclub vibe.",
+            "contactname": "Tara",
+            "contactwebsite": "http://www.bouncefitbody.com/",
+            "image": "bounce.jpeg"
+        },
+        {
+            "day": "Tuesday",
+            "time": "5.30pm - 6.30pm",
             "name": "Private Hire",
             "summary": "Private Badminton Hire",
             "description": ""
         },
         {
             "day": "Tuesday",
-            "time": "7 - 8pm",
+            "time": "7pm - 8pm",
             "name": "Western Spirit",
             "summary": "Line Dance Club",
             "description": "Line dance classes for beginners and improvers.",
@@ -37,7 +59,7 @@ function fetchActivities() {
         },
         {
             "day": "Wednesday",
-            "time": "10 - 12noon",
+            "time": "10am - 12noon",
             "name": "Ducklings",
             "summary": "Baby & Toddler Group",
             "description": "Ducklings is a friendly and informal playgroup for babies and toddlers up to school age, everyone is welcome so please feel free to drop in for a play, chat and a biscuit :)",
@@ -50,7 +72,7 @@ function fetchActivities() {
         },
         {
             "day": "Wednesday",
-            "time": "2:30 - 4pm",
+            "time": "2:30pm - 4pm",
             "name": "Gentle Exercise",
             "summary": "Seated or Standing",
             "description": "A gentle exercise session, a combination of stretches and arm and leg exercises to music, designed to maintain and extend a normal range of movement, seated or standing.",
@@ -58,6 +80,16 @@ function fetchActivities() {
             "contactname": "Vicky Davidson",
             "contactnumber": "07709 687415",
             "contactemail": "countesswearvillagehall@gmail.com"
+        },
+        {
+            "day": "Wednesday",
+            "time": "6.30pm - 7.30pm",
+            "name": "(( Bounce ))",
+            "summary": "Trampoline Fitness",
+            "description": "Routines are performed to banging tunes in a welcoming, motivating, environment. We encourage a social space where you can make friends or even bring your children along while you workout too - we're proud to have pioneered the 'child-friendly' fitness movement and pride ourselves on operating an inclusive FUN FRIENDLY FIERCE nightclub vibe.",
+            "contactname": "Tara",
+            "contactwebsite": "http://www.bouncefitbody.com/",
+            "image": "bounce.jpeg"
         },
         {
             "day": "Thursday",
@@ -102,6 +134,16 @@ function fetchActivities() {
             "contactemail": "countesswearvillagehall@gmail.com"
         },
         {
+            "day": "Friday",
+            "time": "7.30pm - 8.30pm",
+            "name": "(( Bounce ))",
+            "summary": "Trampoline Fitness",
+            "description": "Routines are performed to banging tunes in a welcoming, motivating, environment. We encourage a social space where you can make friends or even bring your children along while you workout too - we're proud to have pioneered the 'child-friendly' fitness movement and pride ourselves on operating an inclusive FUN FRIENDLY FIERCE nightclub vibe.",
+            "contactname": "Tara",
+            "contactwebsite": "http://www.bouncefitbody.com/",
+            "image": "bounce.jpeg"
+        },
+        {
             "day": "Sunday",
             "time": "9.30am - 10.30am",
             "name": "Private Hire",
@@ -110,7 +152,7 @@ function fetchActivities() {
         },
         {
             "day": "Saturday",
-            "time": "9 - 10am",
+            "time": "9.00am - 10am",
             "name": "Shotokan Karate",
             "summary": "For all ages",
             "description": "Karate teaches Self Defence, Fitness, Discipline, Confidence and Flexibility. Ideal for Men, Women and Children from 5 years.",
