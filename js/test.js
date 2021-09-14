@@ -6,18 +6,6 @@ function fetchActivities() {
     var activities = [
         {
             "day": "Monday",
-            "time": "10:00am - 11:00am",
-            "name": "Toddler Phonetics",
-            "summary": "Baby & Toddler Group",
-            "description": "This parent and toddler class is aimed at 3 - 5 year olds and is described as ‘Athletics for your ABCs’, with the main aim being to have fun and provide a safe space for learning. Examples of activities during classes include; art, music & singing, learning activities and stories which will all support children’s development for starting school and beyond.",
-            "notes": "Free Trial in July",
-            "contactname": "Kay",
-            "contactnumber": "07460 482146",
-            "contactwebsite": "http://www.toddlerphonetics.co.uk/",
-            "image": "phonetics.jpeg"
-        },
-        {
-            "day": "Monday",
             "time": "6:00pm - 8.15pm",
             "name": "Pilates with Petra",
             "summary": "Mixed Ability Class",
@@ -27,23 +15,6 @@ function fetchActivities() {
             "contactnumber": "07745 823565",
             "contactemail": "petra.jan@hotmail.com",
             "image": "pilates.jpg"
-        },
-        {
-            "day": "Tuesday",
-            "time": "9.30pm - 10.30am",
-            "name": "(( Bounce ))",
-            "summary": "Trampoline Fitness",
-            "description": "Routines are performed to banging tunes in a welcoming, motivating, environment. We encourage a social space where you can make friends or even bring your children along while you workout too - we're proud to have pioneered the 'child-friendly' fitness movement and pride ourselves on operating an inclusive FUN FRIENDLY FIERCE nightclub vibe.",
-            "contactname": "Tara",
-            "contactwebsite": "http://www.bouncefitbody.com/",
-            "image": "bounce.jpeg"
-        },
-        {
-            "day": "Tuesday",
-            "time": "5.30pm - 6.30pm",
-            "name": "Private Hire",
-            "summary": "Private Badminton Hire",
-            "description": ""
         },
         {
             "day": "Tuesday",
@@ -124,18 +95,17 @@ function fetchActivities() {
             "image": "maternity_collective_flyer.jpg"
         },
         {
-            "day": "Friday",
-            "time": "10am - 12pm",
+            "day": "Tuesday",
+            "time": "11am - 1pm",
             "name": "Painting Class",
             "description": "",
             "summary": "",
-            "contactname": "Jessica Startin",
-            "contactnumber": "07709 687415",
+            "contactname": "The Committee",
             "contactemail": "countesswearvillagehall@gmail.com"
         },
         {
             "day": "Friday",
-            "time": "7.30pm - 8.30pm",
+            "time": "6pm - 7pm",
             "name": "(( Bounce ))",
             "summary": "Trampoline Fitness",
             "description": "Routines are performed to banging tunes in a welcoming, motivating, environment. We encourage a social space where you can make friends or even bring your children along while you workout too - we're proud to have pioneered the 'child-friendly' fitness movement and pride ourselves on operating an inclusive FUN FRIENDLY FIERCE nightclub vibe.",
