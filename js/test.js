@@ -6,6 +6,15 @@ function fetchActivities() {
     var activities = [
         {
             "day": "Monday",
+            "time": "10:00 - 11:00am",
+            "name": "Open Door Yoga",
+            "summary": "",
+            "description": "A Hathaway style yoga linking asanas with breathing and mindful awareness",
+            "contactname": "The Committee",
+            "contactemail": "countesswearvillagehall@gmail.com"
+        },
+        {
+            "day": "Monday",
             "time": "6:00pm - 8.15pm",
             "name": "Pilates with Petra",
             "summary": "Mixed Ability Class",
@@ -15,6 +24,24 @@ function fetchActivities() {
             "contactnumber": "07745 823565",
             "contactemail": "petra.jan@hotmail.com",
             "image": "pilates.jpg"
+        },
+        {
+            "day": "Monday",
+            "time": "8.30pm - 10.00pm",
+            "name": "Banyu Hatten Akido",
+            "summary": "",
+            "description": "",
+            "contactname": "The Committee",
+            "contactemail": "countesswearvillagehall@gmail.com"
+        },
+        {
+            "day": "Tuesday",
+            "time": "11am - 1pm",
+            "name": "Art Class",
+            "description": "",
+            "summary": "",
+            "contactname": "The Committee",
+            "contactemail": "countesswearvillagehall@gmail.com"
         },
         {
             "day": "Tuesday",
@@ -43,7 +70,7 @@ function fetchActivities() {
         },
         {
             "day": "Wednesday",
-            "time": "2:30pm - 4pm",
+            "time": "2:30pm - 3.30pm",
             "name": "Gentle Exercise",
             "summary": "Seated or Standing",
             "description": "A gentle exercise session, a combination of stretches and arm and leg exercises to music, designed to maintain and extend a normal range of movement, seated or standing.",
@@ -86,7 +113,7 @@ function fetchActivities() {
         },
         {
             "day": "Thursday",
-            "time": "6.30pm - 8.30pm",
+            "time": "7.00pm - 9.00pm",
             "name": "The Maternity Collective",
             "summary": "Antenatal and Hypnobirthing Classes",
             "description": "This class is your ultimate Birth Preparation Course, comprehensively covering everything you need to know to ensure you feel confident and empowered as you approach birth. As a team, we include an Obstetrician and Hypnobirthing Instructor, Community Midwife, International Board-Certified Lactation Consultant (IBCLC) and Newborn Behaviour Expert and a Paediatrician. We are all passionate about providing you with accurate, evidence-based information to enable you to make informed choices right for you and your baby.\nIncluded in the price of the course:\n- 14+ hours of group expert-led classes\n- Covid secure face-2-face sessions\n - Covers all aspects of pregnancy, labour, birth and the newborn period in depth\n - Complete Hypnobirthing course fully integrated\n - Newborn First Aid included as standard\n - Supports all methods of birth and feeding, including Elective Caesarean Section Course option.\n - Includes access to TMC Complete Online Antenatal Course – 7+ hours of videos to enable you to re-watch as needed or in case of a missed session (worth £39.50!)\n - Complete course notes booklet, including hypnobirthing scripts and relaxations\n - Exclusive discounts on pregnancy and baby products and resources\n - Opportunity to socialise as a group at The Tally Ho Pub and Restaurant right-next door before/after sessions. The Maternity Collective have arranged with The Tally Ho pub to reserve tables for parents and to take pre-orders of food during the session, should expectant parents wish to eat/drink together after a session.",
@@ -95,11 +122,11 @@ function fetchActivities() {
             "image": "maternity_collective_flyer.jpg"
         },
         {
-            "day": "Tuesday",
-            "time": "11am - 1pm",
-            "name": "Painting Class",
-            "description": "",
-            "summary": "",
+            "day": "Friday",
+            "time": "10.30am - 11.30am",
+            "name": "Core and Restore",
+            "summary": "Postnatal physiotherapy",
+            "description": "Postnatal we overly led by an experienced physiotherapy",
             "contactname": "The Committee",
             "contactemail": "countesswearvillagehall@gmail.com"
         },
